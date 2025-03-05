@@ -36,11 +36,11 @@ This dashboard provides information on the following:
 #### YTD Total Sales by Body Style: 
 - Distribution of YTD total sales across car body styles using donut chart.
 
-#### YTD Total Sales by Color: 
-- Contribution of car colors to YTD total sales through donut chart.
+#### YTD Total Sales by Colour: 
+- Contribution of car colours to YTD total sales through donut chart.
 
 #### YTD Cars Sold by Dealer Region: 
-- YTD sales data based on dealer regions using map chart to visualize sales distribution geographically.
+- YTD sales data based on dealer regions using map chart to visualise sales distribution geographically.
 
 #### Company-Wise Sales Trend: 
 - Table displaying sales trend for each company. Showcases company name along with YTD sales figures. 
